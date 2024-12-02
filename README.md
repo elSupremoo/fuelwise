@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You will need to use your own Google Maps API key on the MapScreen.dart file in two places for the app to function as intended
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
